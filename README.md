@@ -10,6 +10,7 @@ Three approaches to get close to pi
 ## Motivation <a name="motivation"></a>
 To sharpen my knowledge of object-oriented programming, I decided to try out my new skills in a new project. The repository provides additional information to better understand my project.
 
+You can find the corresponding Medium post [here]().
 
 ## Approaches <a name="approaches"></a>
 
