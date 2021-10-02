@@ -47,7 +47,7 @@ Methods:
 
 ## Files <a name="files"></a>
 
-The package contains two files:
+The repository contains three files:
 1. monte_carlo.py, class = Monte_Carlo_Estimator()
 2. riemann_sum.py, class = Riemann_Sum_Approximation()
 3. leibniz_series.py, class = Leibniz_Series_Approximation()
