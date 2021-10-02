@@ -24,7 +24,7 @@ Methods:
 2. circle_plot(): function to plot the unit circle and the simulated points. 
 
 ---
-**Riemann_Sum_Estimator:** Although this approach differs from Monte Carlo, it has one thing in common: here, too, we try to approximate the area of the unit circle (which, as we know, is pi). To achieve this, we try to approximate the integral of the function sqrt(1-x²) from 0 to 1 and multiply by 4.
+**Riemann_Sum_Approximation:** Although this approach differs from Monte Carlo, it has one thing in common: here, too, we try to approximate the area of the unit circle (which, as we know, is pi). To achieve this, we try to approximate the integral of the function sqrt(1-x²) from 0 to 1 and multiply by 4.
 
 Attributes:<br/>
 number of Riemann sums (n=100)
@@ -34,7 +34,7 @@ Methods:
 2. bar_plot(): function to plot a quarter of the unit circle and the approximation with n intervals.
 ---
 
-**Leibniz_Series_Estimator:** This approach works completely differently from the others. The Leibniz formula for pi, named after Gottfried Leibniz, already provides what we are looking for. So in this approach, the first n summands are taken and multiplied by 4.
+**Leibniz_Series_Approximation:** This approach works completely differently from the others. The Leibniz formula for pi, named after Gottfried Leibniz, already provides what we are looking for. So in this approach, the first n summands are taken and multiplied by 4.
 
 Attributes:<br/>
 number of summands (n=100)
