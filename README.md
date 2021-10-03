@@ -15,7 +15,7 @@ You can find the corresponding Medium post [here]().
 ## Approaches <a name="approaches"></a>
 
 ---
-**Monte_Carlo_Estimator:** This estimator generates random points in a 2x2 area and calculates the ratio of points that end up inside the unit circle. Since we know that the area of the unit circle is equal to Pi, we can multiply this ratio by 4 (total area).
+**Monte_Carlo_Estimator:** This estimator generates random points in a 2x2 area and calculates the ratio of points that end up inside the unit circle. Since we know that the area of the unit circle is equal to pi, we can multiply this ratio by 4 (total area).
 
 Attributes:<br/>
 number of simulation (n=1000)
