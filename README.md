@@ -1,5 +1,5 @@
 # estimate-and-approximate-pi
-Three approaches to get close to pi
+Three Ways to get close to pi
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ Three approaches to get close to pi
 ## Motivation <a name="motivation"></a>
 To sharpen my knowledge of object-oriented programming, I decided to try out my new skills in a new project. The repository provides additional information to better understand my project.
 
-You can find the corresponding Medium post [here]().
+You can find the corresponding Medium post [here](https://medium.com/@jonas_theiler/3-ways-to-get-close-to-pi-a94182502b5b).
 
 ## Approaches <a name="approaches"></a>
 
