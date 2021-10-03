@@ -1,5 +1,5 @@
 # estimate-and-approximate-pi
-Three approaches to get closer to pi
+Three approaches to get close to pi
 
 ## Table of Contents
 
