@@ -1,5 +1,5 @@
 # estimate-and-approximate-pi
-Three Ways to get close to pi
+Three Ways to get close to pi.
 
 ## Table of Contents
 
